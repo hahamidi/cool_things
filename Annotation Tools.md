@@ -5,7 +5,7 @@
 
 Roboflow Annotate provides a fast, robust interface for annotating images, making it easy to create training data for your computer vision models. You can annotate images using bounding boxes and polygons with various methods to suit your needs.
 
-# Annotation Methods
+## Annotation Methods
 Roboflow Annotate offers multiple ways to label your images:
 
 Manual Annotation: Draw bounding boxes and polygons directly on images.
